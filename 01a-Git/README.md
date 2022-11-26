@@ -6,7 +6,8 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=01-Git">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Personalmente y sin ánimo de ofender, respecto al video creo que pudo ser mas corto teniendo en cuenta el contenido del mismo, Actualizar el video con el nuevo metodo de autenticacion en Github.
+        El material de lectura me parecio bastante relevante y bien documentado, gracias por los links de tutoriales!
       </a>
     </td>
   </tr>
@@ -121,3 +122,4 @@ Sabiendo esto, el flujo de trabajo básico en Git sería algo así:
 Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Prep-Course/tree/main/01a-Git/homework)
 
 #### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***01b_git*** de Slack
+https://github.com/Cristobal1002/repositorio-henry
