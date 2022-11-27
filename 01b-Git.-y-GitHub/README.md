@@ -6,7 +6,7 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=01-Git">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Excelente material, si bien esta condensado muestra todo lo que cualquier principiante puede necesitar
       </a>
     </td>
   </tr>
