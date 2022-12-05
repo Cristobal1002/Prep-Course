@@ -1,0 +1,36 @@
+h1 {
+    color: darkcyan;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background-image: url('https://img.freepik.com/vector-gratis/fondo-blanco-organico_1199-324.jpg?w=1480&t=st=1670041639~exp=1670042239~hmac=0d29c502c6130cde65267782fca7762f3ba36932189bab88c27244f2cfeafc09');
+}
+
+img {
+    width: 400px;
+    height: 250px;
+
+}
+
+.centrar {
+    display: flex;
+    justify-content: center;
+}
+
+.divClass{
+    text-align: center;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: azure;
+    padding: 50px;
+    border: 5px solid;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
